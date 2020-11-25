@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 ## Instructions 
-**You are at the right place if you are:**
+**You are at the right place if you are working on one of the followings:**
   * creating a new service 
   * adding a new API version to your stable service or adding a new API to your preview service, and need to have a design meeting 
   * making big modeling changes
