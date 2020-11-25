@@ -1,6 +1,6 @@
 ---
-name: Request ARM API Review
-about: Issue to create for an ARM API Review
+name: ARM API Review Meeting Intake Form
+about: Issue to create for an ARM API Review meeting
 title: ''
 labels: ''
 assignees: ''
